@@ -13,3 +13,5 @@ now maybe someone can make a native dsi/3ds/n3ds version to support better wifi,
 
 
 suprised nobody decided to fucking port moonshell to dsi/3ds/n3ds, proabably the most used homebrew, wit no dpg needed, well atleast for dsi maybe...probably could just integrate this into it as an applet or plugin of sorts....
+
+the server is not resource hungry, it could run fine on an hp1151NR netbook under win7 or jolicloud via wine, you just need a low latency connection for the host server, you probably can run it using a raspberry pi with wine installed
